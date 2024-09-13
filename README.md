@@ -82,7 +82,7 @@ The `test.pcd` & `testdata.pcd` are two small datesets for testing and visualiza
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [GPL 3.0](LICENSE).
 
 ## Contributing
 
