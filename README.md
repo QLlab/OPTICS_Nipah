@@ -1,12 +1,9 @@
 # OPTICS_Nipah
-Code for paper "The nanoscale organization of the Nipah virus fusion protein informs new membrane fusion mechanisms"
 
-[Link for paper](https://elifesciences.org/reviewed-preprints/97017v1)
-
-For 3D OPTICS
 ## Code for "The nanoscale organization of the Nipah virus fusion protein informs new membrane fusion mechanisms"
+## [Link for paper](https://elifesciences.org/reviewed-preprints/97017v1)
 
-# SMLM Point Cloud Processing
+## SMLM Point Cloud Processing
 
 This project provides tools for processing and analyzing Single Molecule Localization Microscopy (SMLM) point cloud data. It includes implementations of various clustering algorithms such as DBSCAN and OPTICS, as well as utilities for data conversion and visualization.
 
