@@ -1,7 +1,7 @@
 # OPTICS_Nipah
 
 ## Code for "The nanoscale organization of the Nipah virus fusion protein informs new membrane fusion mechanisms"
-## [Link for paper](https://elifesciences.org/reviewed-preprints/97017v1)
+## [Link for paper](https://elifesciences.org/reviewed-preprints/97017v2)
 
 ## SMLM Point Cloud Processing
 
